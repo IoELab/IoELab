@@ -1,27 +1,27 @@
 .member {
     box-sizing: border-box;
     float: left;
-    height: 250px;
+    height: 1.2*$img-height;
     padding: 10px;
     vertical-align: middle;
     width: 33.33%;
 
     .thumbnail {
         overflow: hidden;
-        height: 200px;
+        height: $img-height;
         width: 100%;
 
         img {
-            height: 200px;
+            height: $img-height;
             position: relative;
-                left: 15%;
+                left: 5%;
                 top: 0%;
-            width: 150px;
+            width: auto;
         }
 
         a {
             float: left;
-            height: 230px;
+            height: $img-height;
             position: relative;
             width: 100%;
 

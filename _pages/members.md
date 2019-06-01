@@ -2,7 +2,7 @@
 layout: page
 title: members/成员
 permalink: /members/
-description: A growing collection of your cool members.
+description:
 ---
 
 {% for member in site.members %}

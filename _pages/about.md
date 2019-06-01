@@ -2,17 +2,10 @@
 layout: about
 permalink: /
 title: Yuemin Ding (丁月民)
-description: <a href="">Tianjin University of Technology/天津理工大学</a>, Email - yuemin@tjut.edu.cn
+description: Tianjin University of Technology/天津理工大学<br/>Email - yuemin@tjut.edu.cn<br/>  Room 7-409, No. 391, Binshuixi Road, Xiqing District, Tianjin, China/天津市西青区宾水西道391号7号楼409室
 profile:
   align: right
   image: yuemin.jpg
-  address: >
-    <p>Room 409, 7th Building</p>
-    <p>No. 391, Binshuixi Road, Xiqing District</p>
-    <p>Tianjin, China 300384</p>
-    <p>天津西青区宾水西道391号</p>
-    <p>7号楼409室</p>
-
 news: true
 social: true
 ---
