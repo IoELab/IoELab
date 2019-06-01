@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: Yuemin Ding
+email: yuemin@tjut.edu.cn
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -26,7 +26,6 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -50,7 +49,7 @@ text:
 disqus_shortname: al-folio # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
+show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
 
@@ -63,9 +62,12 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  demos:
     output: true
-    permalink: /projects/:path/
+    permalink: /demos/:path/
+  members:
+    output: true
+    permalink: /members/:path/
 
 news_limit: 5
 
@@ -91,7 +93,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Ding
 
   style: apa
   locale: en

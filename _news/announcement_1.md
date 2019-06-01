@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-05-30 23:17:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Our lab member Yaqi Lu received an internship offer from Scheneider Electric. Congratulations!

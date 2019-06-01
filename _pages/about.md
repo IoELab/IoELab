@@ -1,23 +1,24 @@
----
+﻿---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
-
+title: Yuemin Ding (丁月民)
+description: <a href="">Tianjin University of Technology/天津理工大学</a>, Email - yuemin@tjut.edu.cn
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yuemin.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 409, 7th Building</p>
+    <p>No. 391, Binshuixi Road, Xiqing District</p>
+    <p>Tianjin, China 300384</p>
+    <p>天津西青区宾水西道391号</p>
+    <p>7号楼409室</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<strong>Yuemin Ding</strong> received the Bachelor's degree in communication engineering from [Harbin Institiute of Technology](http://www.hitwh.edu.cn/){:target="\_blank"} at Weihai, China and the Ph.D. degree in electronic systems engineering from [Hanyang University](http://www.hanyang.ac.kr/){:target="\_blank"}, Ansan, Korea, in 2014. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+He is an associate professor at the School of Computer Science and Engineering, [Tianjin University of Technology](http://www.tjut.edu.cn/){:target="\_blank"}, Tianjin, China since 2015 and is also a postdoctoral research fellow at Department of Process and Engineering, [Norwegian University of Science and Technology](http://www.ntnu.edu/){:target="\_blank"}, Trondheim, Norway since 2019. He was also a visiting fellow at School of Electrical Engineering and Computer Science, [Queensland University of Technology](http://www.qut.edu.au/){:target="\_blank"}, Brisbane, Australia from 2017 to 2018. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His research interests include Internet-of-Things (IoT), communications in smart grid, smart homes/buildings, and IoT-based energy management systems. 
