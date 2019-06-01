@@ -1,29 +1,29 @@
 .member {
     box-sizing: border-box;
     float: left;
-    height: 1.2*$img-height;
-    padding: 10px;
+    max-height: 300px;
+    padding: 30px;
     vertical-align: middle;
-    width: 33.33%;
+    max-width: auto;
 
     .thumbnail {
         overflow: hidden;
-        height: $img-height;
-        width: 100%;
+        max-height: 250px;
+        max-width: 100%;
 
         img {
-            height: $img-height;
+            max-height: 230px;
             position: relative;
-                left: 5%;
+                left: 0%;
                 top: 0%;
             width: auto;
         }
 
         a {
             float: left;
-            height: $img-height;
+            max-height: 230px;
             position: relative;
-            width: 100%;
+            width: auto;
 
             span {
                 display: none;
@@ -34,8 +34,10 @@
                 right: 0;
                 background: rgba(0,0,0,0.4);
                 color: $grey-color-light;
-                padding: 40px;
-                text-align: center;
+                padding: 30px;
+                text-align: center;   
+                vertical-align: middle;
+
 
                 h1 {
                     font-size: 1.5rem;
